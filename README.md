@@ -32,12 +32,12 @@ Tools & Libraries Used
 
 Project Structure  
 -----------------
-- sql_runtime_predictor.ipynb: Jupyter Notebook with full implementation  
-- streamlit_app.py: Streamlit UI for runtime prediction  
-- data/: Folder containing synthetic SQL query dataset  
-- models/: Trained ML models (regression and classification) saved with joblib  
-- screenshots/: Output images used in report and demo  
-- README.md: This file  
+- sql_runtime_predictor.ipynb: Jupyter Notebook with full implementation, including data generation, feature extraction, model training, and evaluation  
+- streamlit_app.py: Streamlit UI for SQL runtime prediction. Allows users to input queries and receive runtime predictions  
+- data/: Folder containing the synthetic SQL query dataset. This may be empty if queries are generated dynamically within the notebook  
+- models/: Contains trained ML models (regression and classification) saved using joblib, for later use in prediction 
+- output/: Folder containing screenshots, model evaluation plots, visualizations, and other outputs used in the final report and demo
+- README.md: This file. Provides project overview, setup instructions, usage examples, and structure
 
 How It Works  
 ------------
