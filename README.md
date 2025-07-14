@@ -5,7 +5,7 @@ Author: Chong Deng
 Course: CS 210 - Data Management in Data Science  
 Semester: Summer 2025  
 Project Type: Individual  
-GitHub Repo: [Insert GitHub Link]  
+GitHub Repo: https://github.com/dcmango/Final-Project- 
 
 Overview  
 --------
