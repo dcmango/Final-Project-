@@ -37,7 +37,7 @@ Project Structure
 - data/: Folder containing synthetic SQL query dataset  
 - models/: Trained ML models (regression and classification) saved with joblib  
 - screenshots/: Output images used in report and demo  
-- README.txt: This file  
+- README.md: This file  
 
 How It Works  
 ------------
